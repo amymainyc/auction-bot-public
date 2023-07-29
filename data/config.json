@@ -10,14 +10,6 @@
     "api_auctions": "https://api.hypixel.net/skyblock/auctions?key=[key]&page=[page]",
     "api_mcuuid": "https://api.mojang.com/user/profiles/[uuid]/names",
     "api_mcuser": "https://api.mojang.com/users/profiles/minecraft/[user]",
-    
-    "firebase": {
-        "apiKey": "",
-        "authDomain": "skyblock-fae65.firebaseapp.com",
-        "databaseURL": "https://skyblock-fae65-default-rtdb.firebaseio.com/",
-        "storageBucket": "skyblock-fae65.appspot.com",
-        "serviceAccount": "data/firebase.json"
-    },
 
     "channels": [
         849837565635985408,
