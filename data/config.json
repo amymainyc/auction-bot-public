@@ -1,0 +1,30 @@
+{
+    "token": "",
+    "github_oath": "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",
+    "invite_link": "https://discord.com/api/oauth2/authorize?client_id=731662899281395813&permissions=8&scope=bot%20applications.commands",
+
+    "apikey1": "9d2ca33f-ebfd-4233-bbbf-7ab52c1d76ab",
+    "apikey2": "27579e0f-4d12-478b-b634-5b729ee1381a",
+    "apikey3": "d098e8dc-e2bc-4314-807a-1350ed9f27c1",
+
+    "api_auctions": "https://api.hypixel.net/skyblock/auctions?key=[key]&page=[page]",
+    "api_mcuuid": "https://api.mojang.com/user/profiles/[uuid]/names",
+    "api_mcuser": "https://api.mojang.com/users/profiles/minecraft/[user]",
+    
+    "firebase": {
+        "apiKey": "AIzaSyAz-gjFqvKwFkkM48IcnDXZO8C9ZLwSQcY",
+        "authDomain": "skyblock-fae65.firebaseapp.com",
+        "databaseURL": "https://skyblock-fae65-default-rtdb.firebaseio.com/",
+        "storageBucket": "skyblock-fae65.appspot.com",
+        "serviceAccount": "data/firebase.json"
+    },
+
+    "channels": [
+        849837565635985408,
+        762888691043270687
+    ],
+    "guilds": [
+        749087266491727933,
+        762888596054999050
+    ]
+}
